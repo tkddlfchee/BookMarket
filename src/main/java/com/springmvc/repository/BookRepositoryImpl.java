@@ -44,7 +44,7 @@ public class BookRepositoryImpl implements BookRepository {
 	@Override
 	public List<Book> getAllBookList() {
 		// TODO Auto-generated method stub
-		return null;
+		return listOfBooks;
 	}
 
 }
